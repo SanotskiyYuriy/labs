@@ -55,8 +55,5 @@ public static boolean isSuffix(String word,String suffix){
     return word.indexOf(suffix,word.length()-suffix.length())!=-1;
 }
     public static void main(String[] args){
-
-
-
     }
 }

@@ -82,8 +82,5 @@ public class task3 {
         return false;
     }
     public static void main(String[] args){
-        System.out.println(nextPrimitive(3));
-        System.out.println(nextPrimitive(11));
-        System.out.println(nextPrimitive(100));
     }
 }
